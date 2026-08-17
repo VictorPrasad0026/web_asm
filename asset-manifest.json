@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/web_asm/static/js/main.5f01c129.js",
+    "index.html": "/web_asm/index.html",
+    "main.5f01c129.js.map": "/web_asm/static/js/main.5f01c129.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5f01c129.js"
+  ]
+}
