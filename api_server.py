@@ -20,7 +20,7 @@ app = Flask(__name__, static_folder="web/dist", static_url_path="")
 CORS(app, resources={r"/api/*": {"origins": "*"}})
 
 # ── GROQ CONFIG ───────────────────────────────────────────────────
-const GROQ_KEY = process.env.REACT_APP_GROQ_KEY || "";
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 GROQ_MODEL   = "openai/gpt-oss-120b"
 # ─────────────────────────────────────────────────────────────────
 
