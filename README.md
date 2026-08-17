@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:AAFF00,100:000000&height=200&section=header&text=SentinelX%20V5&fontSize=60&fontColor=AAFF00&fontAlignY=38&desc=Enterprise%20Attack%20Surface%20Management%20Platform&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:FF6B00,100:0a0a0a&height=200&section=header&text=SentinelX%20V5&fontSize=60&fontColor=FF6B00&fontAlignY=38&desc=Enterprise%20Attack%20Surface%20Management%20Platform&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Site-AAFF00?style=for-the-badge&logoColor=black)](https://victorprasad0026.github.io/web_asm/)
-[![Documentation](https://img.shields.io/badge/📚%20DOCUMENTATION-Read%20Docs-0078D4?style=for-the-badge&logoColor=white)](https://github.com/VictorPrasad0026/web_asm/blob/main/SENTINELX_DOCUMENTATION.md)
-[![Backend](https://img.shields.io/badge/⚙️%20BACKEND-Private%20Repo-FF4444?style=for-the-badge&logoColor=white)](https://github.com/VictorPrasad0026/sentinelx-backend)
+[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Site-FF6B00?style=for-the-badge&logoColor=black)](https://victorprasad0026.github.io/web_asm/)
+[![Documentation](https://img.shields.io/badge/📚%20DOCUMENTATION-Read%20Docs-FF8C00?style=for-the-badge&logoColor=white)](https://github.com/VictorPrasad0026/web_asm/blob/main/SENTINELX_DOCUMENTATION.md)
+[![Backend](https://img.shields.io/badge/⚙️%20BACKEND-Private%20Repo-1a1a1a?style=for-the-badge&logoColor=white)](https://github.com/VictorPrasad0026/sentinelx-backend)
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=flat-square&logo=flask&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-AI-F55036?style=flat-square&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-181717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-FF6B00?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-18-FF8C00?style=flat-square&logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3.0-1a1a1a?style=flat-square&logo=flask&logoColor=FF6B00)
+![Groq](https://img.shields.io/badge/Groq-AI-FF6B00?style=flat-square&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -156,12 +156,10 @@ You type: target.com
        │               │                 │
 ┌──────▼──────┐ ┌──────▼──────┐ ┌───────▼──────┐
 │  Collectors │ │  V4 Engine  │ │  V5 Engine   │
-│             │ │             │ │              │
 │ DNS · SSL   │ │ Asset Corr. │ │ TLS Grading  │
 │ Subdomains  │ │ Attack Graph│ │ Login Detect │
-│ HTTP · Tech │ │ Exposure    │ │ Secrets Scan │
-│ Email · ASN │ │ CVE Intel   │ │ Passive DNS  │
-│ WHOIS · CDN │ │ API Discov. │ │ Historical   │
+│ HTTP · Tech │ │ CVE Intel   │ │ Secrets Scan │
+│ Email · ASN │ │ API Discov. │ │ Passive DNS  │
 └─────────────┘ └─────────────┘ └──────────────┘
        │
 ┌──────▼──────────────────────────────────────────────────┐
@@ -255,8 +253,8 @@ web_asm/
 
 ⭐ **Star this repo if you find it useful!**
 
-[![Star](https://img.shields.io/github/stars/VictorPrasad0026/web_asm?style=for-the-badge&logo=github&color=AAFF00&logoColor=black)](https://github.com/VictorPrasad0026/web_asm/stargazers)
+[![Star](https://img.shields.io/github/stars/VictorPrasad0026/web_asm?style=for-the-badge&logo=github&color=FF6B00&logoColor=white)](https://github.com/VictorPrasad0026/web_asm/stargazers)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:AAFF00,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:FF6B00,100:0a0a0a&height=100&section=footer" width="100%"/>
 
 </div>
