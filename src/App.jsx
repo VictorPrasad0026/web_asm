@@ -2346,7 +2346,7 @@ function Copilot({ data, visible, onClose }) {
           2,
         ).slice(0, 7000);
         // Groq API — works directly from browser (free, no CORS issues)
-        const GROQ_KEY = os.environ.get("GROQ_API_KEY", "");
+        const GROQ_KEY = process.env.REACT_APP_GROQ_KEY || "";
         const resp = await fetch(
           "https://api.groq.com/openai/v1/chat/completions",
           {
